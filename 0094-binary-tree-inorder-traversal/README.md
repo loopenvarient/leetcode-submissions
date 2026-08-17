@@ -1,53 +1,46 @@
-<h2><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">94. Binary Tree Inorder Traversal</a></h2><h3>Easy</h3><hr><p>Given the <code>root</code> of a binary tree, return <em>the inorder traversal of its nodes&#39; values</em>.</p>
+# 94. Binary Tree Inorder Traversal
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+- **Difficulty:** Easy  
+- **Link:** https://leetcode.com/problems/binary-tree-inorder-traversal/
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = [1,null,2,3]</span></p>
+## Problem Summary
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
 
-<p><strong>Output:</strong> <span class="example-io">[1,3,2]</span></p>
+Inorder traversal visits nodes in this order:
+1. Left subtree
+2. Current node
+3. Right subtree
 
-<p><strong>Explanation:</strong></p>
+## Examples
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2024/08/29/screenshot-2024-08-29-202743.png" style="width: 200px; height: 264px;" /></p>
-</div>
+### Example 1
+- **Input:** `root = [1,null,2,3]`
+- **Output:** `[1,3,2]`
 
-<p><strong class="example">Example 2:</strong></p>
+### Example 2
+- **Input:** `root = [1,2,3,4,5,null,8,null,null,6,7,9]`
+- **Output:** `[4,2,6,5,7,1,3,9,8]`
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = [1,2,3,4,5,null,8,null,null,6,7,9]</span></p>
+### Example 3
+- **Input:** `root = []`
+- **Output:** `[]`
 
-<p><strong>Output:</strong> <span class="example-io">[4,2,6,5,7,1,3,9,8]</span></p>
+### Example 4
+- **Input:** `root = [1]`
+- **Output:** `[1]`
 
-<p><strong>Explanation:</strong></p>
+## Constraints
+- The number of nodes in the tree is in the range `[0, 100]`.
+- `-100 <= Node.val <= 100`
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2024/08/29/tree_2.png" style="width: 350px; height: 286px;" /></p>
-</div>
+## Approach (Recursive DFS)
+Use a helper function that recursively traverses:
+- Left child
+- Current node (append value to result)
+- Right child
 
-<p><strong class="example">Example 3:</strong></p>
+If the current node is `None`, return immediately.
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = []</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">[]</span></p>
-</div>
-
-<p><strong class="example">Example 4:</strong></p>
-
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">root = [1]</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">[1]</span></p>
-</div>
-
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li>The number of nodes in the tree is in the range <code>[0, 100]</code>.</li>
-	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
-</ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?
+## Complexity
+- **Time:** `O(n)` — each node is visited once.
+- **Space:** `O(h)` recursion stack, where `h` is tree height (`O(n)` worst case, `O(log n)` for balanced tree).
