@@ -67,4 +67,8 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/loopenvarient/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/loopenvarient/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
