@@ -67,8 +67,17 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/loopenvarient/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/loopenvarient/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/loopenvarient/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/loopenvarient/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/loopenvarient/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
