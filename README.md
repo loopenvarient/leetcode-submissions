@@ -71,6 +71,7 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/loopenvarient/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
