@@ -76,6 +76,7 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/loopenvarient/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0058-length-of-last-word](https://github.com/loopenvarient/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
