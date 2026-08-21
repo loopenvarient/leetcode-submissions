@@ -69,15 +69,18 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | ------- | ------- |
 | [0001-two-sum](https://github.com/loopenvarient/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/loopenvarient/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/loopenvarient/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/loopenvarient/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/loopenvarient/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
