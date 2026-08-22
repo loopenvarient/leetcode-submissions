@@ -101,10 +101,12 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/loopenvarient/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/loopenvarient/leetcode-submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/loopenvarient/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/loopenvarient/leetcode-submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
