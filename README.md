@@ -83,6 +83,7 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/loopenvarient/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/loopenvarient/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/loopenvarient/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -112,4 +113,12 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/loopenvarient/leetcode-submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/loopenvarient/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/loopenvarient/leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
