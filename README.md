@@ -73,6 +73,7 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/loopenvarient/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/loopenvarient/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/loopenvarient/leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
@@ -94,4 +95,12 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/loopenvarient/leetcode-submissions/tree/main/0015-3sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/loopenvarient/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/loopenvarient/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
